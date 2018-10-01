@@ -1,2 +1,2 @@
 # MGSpecs
-MG CocoaPods Private Specs
+Text example of using CocoaPods Private Specs repo.
